@@ -1,6 +1,8 @@
 # 6-bit-Parity-Generator-Using-Genetic-Algorithm
 This code generates a combinational circuit using genetic algorithm
 
-g++ -Wall -o ParityGen ParityGen.c
+The name is misleading. The circuit it generates is for even parity generator.
 
-./ParityGen
+g++ -Wall -o ParityChecker ParityChecker.c
+
+./ParityChecker
